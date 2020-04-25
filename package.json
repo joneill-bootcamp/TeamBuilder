@@ -1,0 +1,31 @@
+{
+  "name": "teambuilder",
+  "version": "1.0.0",
+  "description": "Build a team",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneill-bootcamp/TeamBuilder.git"
+  },
+  "keywords": [
+    "teambuilder"
+  ],
+  "author": "john o'neill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joneill-bootcamp/TeamBuilder/issues"
+  },
+  "homepage": "https://github.com/joneill-bootcamp/TeamBuilder#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0",
+    "path": "^0.12.7"
+  }
+}
