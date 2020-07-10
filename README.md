@@ -6,11 +6,7 @@ Allows you to track your Teams
 
 # Repo Link
 
-> https://github.com/joneill-bootcamp/workouttracker
-
-# Heroku Link
-
-> https://aqueous-bastion-17761.herokuapp.com
+> https://github.com/joneill-bootcamp/TeamBuilder
 
 # Table of Contents
 
@@ -26,7 +22,7 @@ Allows you to track your Teams
 
 Clone the repo with the following command
 
-> git clone https://github.com/joneill-bootcamp/workouttracker
+> git clone https://github.com/joneill-bootcamp/TeamBuilder
 
 Run the following command
 
@@ -36,7 +32,7 @@ Run the following command
 
 To execute this tool
 
-> npm run start
+> node app.js
 
 ## Technology
 
